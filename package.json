@@ -2,7 +2,7 @@
   "name": "filmoteka-goit",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://sergeyfilatyev.github.io/Filmoteka-GOIT",
+  "homepage": "https://AndreyGOIT.github.io/Filmoteka-GOIT/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /Filmoteka-GOIT/"
